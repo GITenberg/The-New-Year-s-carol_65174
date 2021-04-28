@@ -1,0 +1,39 @@
+_repo: The-New-Year-s-carol_65174
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wesson, Grace Edwards
+    gutenberg_agent_id: '53219'
+    url: http://www.gutenberg.org/2009/agents/53219
+  translator:
+    agent_name: Goodwin, Alice Howland
+    birthdate: 1835
+    gutenberg_agent_id: '53218'
+    url: http://www.gutenberg.org/2009/agents/53218
+creator:
+  author:
+    agent_name: Spyri, Johanna
+    aliases:
+    - Heusser, Johanna Louise
+    - Spyri, Johanna Heusser
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '2491'
+    url: http://www.gutenberg.org/2009/agents/2491
+    wikipedia: https://en.wikipedia.org/wiki/Johanna_Spyri
+description: ''
+gutenberg_issued: '2021-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'New Year -- Switzerland -- Urnäsch -- Juvenile fiction'
+- !lcsh 'Switzerland -- Social life and customs -- Juvenile fiction'
+- GITenberg
+title: The New Year's carol
+url: http://www.gutenberg.org/ebooks/65174
